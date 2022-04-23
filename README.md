@@ -39,10 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![X](https://imgur.com/a/sxTHpvN)
-![X](https://imgur.com/oTJ9K6F)
+![X](https://github.com/migueljar/FTLPrework/blob/main/Start-WinningGame.gif)
+![X](https://github.com/migueljar/FTLPrework/blob/main/Start-LosingGame.gif)
 ![X](https://github.com/migueljar/FTLPrework/blob/main/3Mistakes-Bonus.gif)
-![X](https://media.giphy.com/media/RIeJ4gykocIwEcooHV/giphy.gif)
+![]()
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
