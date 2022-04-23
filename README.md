@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![X](https://imgur.com/a/sxTHpvN)
 ![X](https://imgur.com/oTJ9K6F)
-![X](https://imgur.com/a/1eRaIpt)
+![X](https://github.com/migueljar/FTLPrework/blob/main/3Mistakes-Bonus.gif)
 ![X](https://media.giphy.com/media/RIeJ4gykocIwEcooHV/giphy.gif)
 
 ## Reflection Questions
