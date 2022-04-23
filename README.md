@@ -42,7 +42,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![X](https://imgur.com/a/sxTHpvN)
 ![X](https://imgur.com/oTJ9K6F)
 ![X](https://imgur.com/a/1eRaIpt)
-![x](https://media.giphy.com/media/RIeJ4gykocIwEcooHV/giphy.gif)
+![X](https://media.giphy.com/media/RIeJ4gykocIwEcooHV/giphy.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
