@@ -4,9 +4,8 @@
 
 Submitted by: **Miguel Jara**
 
-Time spent: **#** hours spent in total
-
-Link to project: (insert your link here, should start with https://glitch.com...)
+Time spent: **12* hours spent in totall
+Link to project: https://glitch.com/edit/#!/eastern-industrious-medicine
 
 ## Required Functionality
 
@@ -39,10 +38,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![X](https://imgur.com/a/sxTHpvN)
-![X](https://imgur.com/oTJ9K6F)
-![X](https://imgur.com/a/1eRaIpt)
-![](gif4-link-here)
+![X](https://github.com/migueljar/FTLPrework/blob/main/Start-WinningGame.gif)
+![X](https://github.com/migueljar/FTLPrework/blob/main/Start-LosingGame.gif)
+![X](https://github.com/migueljar/FTLPrework/blob/main/3Mistakes-Bonus.gif)
+![]()
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -61,7 +60,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/18d53549dc0547e3bae41ab299389e08)
 
 
 ## License
@@ -78,4 +77,4 @@ If you recorded multiple GIFs for all the implemented features, you can add them
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License.
+    limitations under the License.3
